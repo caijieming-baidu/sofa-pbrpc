@@ -13,3 +13,4 @@ fi
 
 $PROTOC -I. --python_out=. echo_service.proto
 
+$PROTOC -I. --python_out=. query.proto

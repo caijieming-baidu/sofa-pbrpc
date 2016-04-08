@@ -16,7 +16,7 @@
 ##   $(BOOST_HEADER_DIR)/boost/smart_ptr.hpp
 ##
 #BOOST_HEADER_DIR=/home/users/qinzuoyan01/libs/boost_1_53_0
-BOOST_HEADER_DIR=
+BOOST_HEADER_DIR=/home/users/caijieming/TODO-sofa-pbrpc/sofa-pbrpc/thirdparty/boost_1_57_0
 ################################################################
 
 ################################################################
@@ -28,7 +28,7 @@ BOOST_HEADER_DIR=
 ##   $(PROTOBUF_DIR)/lib/libprotobuf.a 
 ##
 #PROTOBUF_DIR=/home/users/qinzuoyan01/libs/protobuf-2.4.1/output
-PROTOBUF_DIR=/usr/local/
+PROTOBUF_DIR=/home/users/caijieming/TODO-sofa-pbrpc/sofa-pbrpc/thirdparty
 ################################################################
 
 ################################################################
@@ -39,7 +39,7 @@ PROTOBUF_DIR=/usr/local/
 ##   $(SNAPPY_DIR)/lib/libsnappy.a
 ##
 #SNAPPY_DIR=/home/users/qinzuoyan01/libs/snappy-1.1.1/output
-SNAPPY_DIR=
+SNAPPY_DIR=/home/users/caijieming/TODO-sofa-pbrpc/sofa-pbrpc/thirdparty
 ################################################################
 
 ################################################################
@@ -50,6 +50,6 @@ SNAPPY_DIR=
 ##   $(ZLIB_DIR)/lib/libz.*
 ##
 ## If zlib is already installed in system path, ignore ZLIB_DIR.
-#ZLIB_DIR=
+ZLIB_DIR=/home/users/caijieming/TODO-sofa-pbrpc/sofa-pbrpc/thirdparty
 ################################################################
 
